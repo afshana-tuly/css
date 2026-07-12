@@ -1,0 +1,22 @@
+p{
+color:darkslategray;
+font-size:18px;
+}
+div{
+width:200px;
+height:200px;
+background-color:lightgray;
+margin-bottom:20px;
+}
+div p{
+  color:black;
+}
+.Life-Story{
+  color:red;
+  text-align:right;
+
+}
+.First-div {
+  background-color:lightgreen;
+  color:white;
+}
